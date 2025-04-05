@@ -1,9 +1,9 @@
 # Face-Emotions-Age-Gender Detection 
 
 ![Demo](https://github.com/erfan3940/face-emotions-age-detection/blob/main/captured/Face%20Recognition%204_5_2025%206_13_58%20PM.png)
-**video
-![Demo](https://github.com/erfan3940/face-emotions-age-detection/blob/main/captured/Face%20Recognition%202025-04-05%2018-12-04.mp4)
-A real-time system that detects faces and predicts **age**, **gender**, and **emotions** simultaneously using OpenCV, Haar Cascades, and custom deep-learning models.
+
+![dowload demo video](https://github.com/erfan3940/face-emotions-age-detection/blob/main/captured/Face%20Recognition%202025-04-05%2018-12-04.mp4)
+A real-time system that detects faces and predicts **age**, **gender**, and **emotions** simultaneously using OpenCV, Haar Cascades, and custom deep-learning models in both persian and english.
 
 ## Features
 ✔ **Face Detection** - Haar Cascade for bounding box detection.
@@ -22,8 +22,3 @@ A real-time system that detects faces and predicts **age**, **gender**, and **em
 
 ## Model Weights Disclaimer
 Pre-trained weights for the WideResNet (age/gender) are **not included** in this repository due to large file sizes. Contact me for access or train your own model using the FER2013 dataset.
-
-## Usage
-1. Ensure dependencies are installed:
-   ```bash
-   pip install opencv-python tensorflow numpy
