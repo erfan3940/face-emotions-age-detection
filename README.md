@@ -1,7 +1,8 @@
 # Face-Emotions-Age-Gender Detection 
 
 ![Demo](https://github.com/erfan3940/face-emotions-age-detection/blob/main/captured/Face%20Recognition%204_5_2025%206_13_58%20PM.png)
-
+**video
+![Demo](https://github.com/erfan3940/face-emotions-age-detection/blob/main/captured/Face%20Recognition%202025-04-05%2018-12-04.mp4)
 A real-time system that detects faces and predicts **age**, **gender**, and **emotions** simultaneously using OpenCV, Haar Cascades, and custom deep-learning models.
 
 ## Features
